@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.tableBordered {
+
+  th {
+    border: 1px solid #dddfeb;
+  }
+
+  td {
+    border: 1px solid #dddfeb;
+  }
+}
